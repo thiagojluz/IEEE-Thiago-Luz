@@ -1,4 +1,6 @@
-# IEEE-Thiago-Luz
+# Generation and Transmission Expansion Planning with Full-year Hourly Power Balance
+# IEEE Latin America Transactions
+# By Thiago José da Luz, 12/05/2023
 Generation and Transmission Expansion Planning with Full-year Hourly Power Balance
 Variable renewables energy are leading the energy
 transition and power system flexibility has become a global
